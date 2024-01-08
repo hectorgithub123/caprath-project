@@ -11,5 +11,5 @@
 
 ```
 This game is in developing progress, you can meet some unwanted bugs.
-To open the source code, you need to download the source code here and open it in [Turbowarp](https://turbowarp.org)
 ```
+To open the source code, you need to download the source code here and open it in [Turbowarp](https://turbowarp.org)
